@@ -1,1 +1,14 @@
+# Eclipse / IDE
+.settings/
+.classpath
+.project
+
+# Build outputs
 /bin/
+*.class
+*.jar
+
+# Secrets / local configs
+db.properties
+*.properties
+.env
